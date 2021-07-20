@@ -78,4 +78,4 @@ This library passed on tests in the IE11 Browser.
 
 ## License
 
-[MIT License](https://github.com/raafacachoeira/fileViewer.js/blob/master/LICENSE) © Rafael Cachoeira
+[MIT License](https://github.com/raafacachoeira/jquery-file-viewer/blob/main/LICENSE) © Rafael Cachoeira
